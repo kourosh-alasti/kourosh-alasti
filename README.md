@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @kourosh-alasti
-- 👀 I’m interested in App Development and Video Game Development
-- 🌱 I’m currently learning Flutter and Web Development
-- 💞️ I’m looking to collaborate on Dart/Flutter App Development
-- 📫 Reach me at coding@kouroshalasti.com
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
-<!---
-kourosh-alasti/kourosh-alasti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+
+I am Kourosh Alasti, a **Computer Science** Student at **CSU Fullerton**, I a
+
+## Relevant Coursework
+- Computer Organization and Assembly Language
+- C++ Data Structures
+- C++ Object Oriented Programming
+- Web Application Development
+- Movile Application Development
+- Python Programming
+
+## Languages
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![dart](https://img.shields.io/badge/Dart-28B6F6?style=for-the-badge&logo=dart&logoColor=white)
