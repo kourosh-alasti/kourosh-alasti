@@ -8,9 +8,9 @@ I am Kourosh Alasti, a **Computer Science** Student at **CSU Fullerton**, I am p
 - Computer Organization and Assembly Language
 - C++ Data Structures
 - C++ Object Oriented Programming
-- Web Application Development
-- Movile Application Development
+- Moile Application Development
 - Python Programming
+- Web Application Development
 
 ### Languages
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
