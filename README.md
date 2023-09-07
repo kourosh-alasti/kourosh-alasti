@@ -11,6 +11,9 @@ I am Kourosh Alasti, a **Computer Science** Student at **CSU Fullerton**, I am p
 - Moile Application Development
 - Python Programming
 - Web Application Development
+- Operation Systems Concepts
+- Algorithmic Engineering
+- Databases and File Structures
 
 ### Languages
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
