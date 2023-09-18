@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I am Kourosh Alasti, a **Computer Science** Student at **CSU Fullerton**, I am pursuing my Bachelor. I have experience with PostgreSQL, Front-End Development, IT Administration.
+I am Kourosh Alasti, a **Computer Science** Student at **CSU Fullerton**, I am pursuing my Bachelor. I have experience with PostgreSQL, Front-End Development, and IT Administration.
 
 ## Relevant Coursework
 - Computer Organization and Assembly Language
