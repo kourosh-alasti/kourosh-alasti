@@ -15,6 +15,9 @@ I am Kourosh Alasti, a **Computer Science** Student at **CSU Fullerton**, I am p
 - Algorithmic Engineering
 - Databases and File Structures
 
+### Stats
+<img src="https://github-readme-stats.vercel.app/api?username=kourosh-alasti&theme=gotham&show_icons=true&count_private=true">
+
 ### Languages
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
