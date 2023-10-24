@@ -44,5 +44,4 @@ I am Kourosh Alasti, a **Computer Science** Student at **CSU Fullerton**, I am p
 ## Links
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://kouroshalasti.com/)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kourosh-alasti/)
-
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/kourosh-alasti)
