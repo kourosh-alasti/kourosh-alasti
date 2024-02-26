@@ -14,6 +14,10 @@ I am Kourosh Alasti, a **Computer Science** Student at **CSU Fullerton**, I am p
 - Operation Systems Concepts
 - Algorithmic Engineering
 - Databases and File Structures
+- Web Frontend Engineering
+- Compilers & Languages
+- Software Engineering
+- Android Mobile App Development with Kotlin
 
 ### Stats
 <img src="https://github-readme-stats.vercel.app/api?username=kourosh-alasti&theme=gotham&show_icons=true&count_private=true">
