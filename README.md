@@ -4,6 +4,10 @@
 
 I am Kourosh Alasti, a **Computer Science** Student at **CSU Fullerton**, I am pursuing my Bachelor. I have experience with PostgreSQL, Front-End Development, Back-End Development and IT Administration.
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=kourosh-alasti&color=blue">
+</div>
+
 ## Relevant Coursework
 - Computer Organization and Assembly Language
 - C++ Data Structures
