@@ -8,21 +8,6 @@ I am Kourosh Alasti, a **Computer Science** Student at **CSU Fullerton**, I am p
 <img src="https://komarev.com/ghpvc/?username=kourosh-alasti&color=blue">
 </div>
 
-## Relevant Coursework
-- Computer Organization and Assembly Language
-- C++ Data Structures
-- C++ Object Oriented Programming
-- Mobile Application Development
-- Python Programming
-- Web Application Development
-- Operation Systems Concepts
-- Algorithmic Engineering
-- Databases and File Structures
-- Web Frontend Engineering
-- Compilers & Languages
-- Software Engineering
-- Android Mobile App Development with Kotlin
-
 ### Stats
 <img src="https://github-readme-stats.vercel.app/api?username=kourosh-alasti&theme=gotham&show_icons=true&count_private=true">
 
